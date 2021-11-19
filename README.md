@@ -1,2 +1,2 @@
 # Quiz_WEB
-פרוייקט שנכתב בנושא WEB (HTML, CSS, JAVASCRIPT). פרוייקט זה הוא חידון שרץ בWEB
+The project written in Web Development (HTML, CSS, JAVASCRIPT). This project is a simple quiz running on the WEB.
